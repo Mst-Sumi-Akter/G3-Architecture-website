@@ -172,7 +172,17 @@ main > section{
     max-width: 540px;
 }
 
+ /* <!-- sponsor section  --> */
+ .sponsor-info{
+    max-width: 542px;
+    text-align: center;
+    margin: 50px auto;
 
+ }
+.sponsor-companies{
+    display: flex;
+    justify-content: space-between;
+}
 
 /* responsive media query */
 @media screen and (max-width:576px) {
